@@ -23,5 +23,5 @@ pwd - Print the absolute pathname
 
 ## Authors
 
-. Moses Eyime Akoji and 
-. Timothy Adebatele
+. Okpisa Felix Michael and 
+. Emmanuel Ikpia
